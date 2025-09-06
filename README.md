@@ -35,3 +35,5 @@ pip install matplotlib mplsoccer pandas numpy requests
 ```
 
 ## Author
+
+[LinkedIn: Mohd Hamza Khan](https://www.linkedin.com/in/mohd-hamza-khan)
